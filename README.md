@@ -7,8 +7,8 @@
 
 - 👋 Hi, I’m @Yazan-AbuAwad
 - ⚡ I’m interested in Data Science
-- ✏️ I’m currently learning ...
-- 📖 I'm currently reading: Deep Learning with PyTorch  
+- ✏️ I’m currently learning Time Series Forecasting
+- 📖 I'm currently reading: Deep Learning with PyTorch
 
 <br/>  
 
