@@ -2,10 +2,9 @@
 <img src="work hard in silence let success make the noise.gif" align="center" style="width:100%, height:25%" />
 </div>  
   
-### <div align="center">A mechanical engineer interested in data</div>  
+### <div align="center">👋 Hey, I'm Yazan nice to meet you!</div>  
 
 
-- 👋 Hi, I’m @Yazan-AbuAwad
 - ⚡ I’m interested in Data Science
 - ✏️ I’m currently learning Time Series Forecasting
 - 📖 I'm currently reading: Deep Learning with PyTorch
