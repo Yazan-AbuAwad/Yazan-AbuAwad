@@ -14,7 +14,7 @@ An engineer who likes to deal with data, let's get in touch! 🠇
 
 </div>
 
-- ⚡ I’m interested in Data 
+- ⚡ I’m interested in Data Science
 - ✏️ I’m currently learning Time Series Forecasting
 - 📖 I'm currently reading: Deep Learning with PyTorch
   
