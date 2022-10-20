@@ -6,7 +6,7 @@
 
 <div align ="center">
 
-An engineer who likes to deal with data, let's get in touch! 🠇
+An engineer who likes to deal with data, let's get in touch! 
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yazan-abuawad-1a3066166/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/yazanabuawad)
@@ -28,12 +28,22 @@ An engineer who likes to deal with data, let's get in touch! 🠇
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Sklearn" width="50px" height="50px"/>
 <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="Keras" width="50px" height="50px"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50px" height="50px"/>
-<!-- 
-<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="Pytorch">
-<img height=50 src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"/>
-<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django"/>
-<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain-wordmark.svg" alt="FastApi"/>
---->
+
+  
+<!-- <img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="Pytorch">
+<img height=50 src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV">
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django">
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain-wordmark.svg" alt="FastApi">
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++">
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP">
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda">
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes">
+<img height=50 src="" alt="">
+<img height=50 src="" alt=""> -->
+
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="Matlab" width="50px" height="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50px" height="50px"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
