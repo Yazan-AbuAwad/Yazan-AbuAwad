@@ -8,7 +8,8 @@
 
 An engineer who likes to deal with data, let's get in touch! 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yazan-AbuAwad&label=Profile%20views&color=0e75b6&style=flat" alt="Yazan" /> </p>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Yazan-AbuAwad&label=Profile%20views&color=0e75b6&style=flat" alt="Yazan" /></p>  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yazan-abuawad-1a3066166/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/yazanabuawad)
 <a href="mailto:yazan10.19@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -16,7 +17,6 @@ An engineer who likes to deal with data, let's get in touch!
 </div>
 
 - ⚡ I’m interested in Data Science
-- ✏️ I’m currently learning Time Series Forecasting
 - 📖 I'm currently reading: Deep Learning with PyTorch
   
 
